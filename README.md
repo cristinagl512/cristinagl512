@@ -15,5 +15,6 @@
 
 ## 📫 Puedes encontrarme en:
 - 💼 [LinkedIn] (www.linkedin.com/in/crstnglz)
+- 💌 cris.glez512@gmail.com
 - ✨ O aquí mismo en GitHub jeje  
 
