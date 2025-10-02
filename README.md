@@ -1,16 +1,19 @@
-## Hi there 👋
+# ✨ Holaaa, soy Cristina ✨
 
-<!--
-**cristinagl512/cristinagl512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌻 Estudiante de **Desarrollo de Aplicaciones Web**  
+💻 Cotilleando entre código, café y apuntes   
+🎮 Amante de los videojuegos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💕 Un poquito sobre mí
+- 🤓 Intentando domar a JavaScript y PHP sin llorar mucho  
+- 🐈‍⬛ Mi teclado funciona mejor con un gato al lado  
+- 🎨 Me gusta darle un toque bonito y creativo a todo lo que hago     
+
+---
+
+## 📫 Puedes encontrarme en:
+- 💼 [LinkedIn] (www.linkedin.com/in/crstnglz)
+- ✨ O aquí mismo en GitHub jeje  
+
